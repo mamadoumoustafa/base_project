@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.moustafa.syllas",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "syllas",
+    "packageName": "com.moustafa.syllas",
+    "packageFolder": "com/moustafa/syllas",
+    "serverPort": "8095",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2I3ZmY2YWNmNjZmMGJlOWY2YzBlNGI4MTU5M2QwZDMwNDM0NjYzM2ViZTkwNjJlYTI5OTU1OWE2ZGYxOWNkYjhhNWY3ZTEzMGI0NmVjZjhiOTE0NTFjOGU4MjE5YmM4YjcwNGQwNGY3N2UyZTkwNDk0ZjliMTRmNjhjMDc0N2U=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1613654020328,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "fr",
+    "languages": ["fr"],
+    "blueprints": [],
+    "reactive": true,
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
